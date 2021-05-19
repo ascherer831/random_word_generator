@@ -1,0 +1,31 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+#wrapper {
+    border: 1.5px darkgray solid;
+    border-radius: 5px;
+    padding: 20px;
+    width: fit-content;
+
+}
+
+.line {
+    margin: 10px;
+    text-align: center;
+}
+
+#word {
+    width: 250px;
+    height: 50px;
+    font-size: 1.5em;
+    border:1px darkgray dashed;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
